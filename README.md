@@ -12,4 +12,4 @@ This is where we store all software tools that do not require installation, comp
 
 ## **Currently in the repository:**
 
-**branchlen.py** (by Kacper - for extracting branch length data from Newick trees)
+**[branchlen.py](https://github.com/ProtistomicsLab/scripts/blob/main/branchlen.py)** (by Kacper - for extracting branch length data from Newick trees)
