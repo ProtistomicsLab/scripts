@@ -1,7 +1,7 @@
 # scripts
 This is where we store all software tools that do not require installation, compilation or doing anything else before you run them.
 
-> [!NOTE]
+> [!NOTE]  
 
 > * **.py** files are Python scripts, i.e. they require Python to run.
 
