@@ -1,13 +1,13 @@
 # scripts
 This is where we store all software tools that do not require installation, compilation or doing anything else before you run them.
 
-> [!NOTE]  
+## **Important info for beginners:**
 
-> **.py** files are Python scripts, i.e. they require Python to run.  
+* **.py** files are Python scripts, i.e. they require Python to run.  
 
-> **.pl** files are Perl scripts, i.e. they require Perl to run.  
+* **.pl** files are Perl scripts, i.e. they require Perl to run.  
 
-> **.sh** files are bash scripts, i.e. they require nothing to run (since bash is everywhere by default).  
+* **.sh** files are bash scripts, i.e. they require nothing to run (since bash is everywhere by default).  
 
 
 ## **Currently in the repository:**
