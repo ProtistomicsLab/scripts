@@ -1,4 +1,6 @@
-#!/usr/bin/python3.6
+# A basic script for extracting branch length values from tree files
+# Tested and working on Python 3.6 
+# This is my first ever upload to Github, so I'm using it as a test file
 
 import ete3
 from ete3 import Tree
