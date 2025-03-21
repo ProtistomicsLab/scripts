@@ -17,6 +17,7 @@ This is where we store all software tools that do not require installation, comp
 
 * **[fasta_to_phylip.py](https://github.com/ProtistomicsLab/scripts/blob/main/fasta_to_phylip.py)** (by Jadzia)
 Python script that converts input in fasta to format into output in phylip format. Usesful while running PAML or CODEML.
+
 Usage: fasta_to_phylip.py [input] [output]
 
 [input] name of the input file in fasta format [output] name of the output file in phylip format
