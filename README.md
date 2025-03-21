@@ -30,8 +30,8 @@ Python script to estimate genome completness based on transcriptome.
 usage: getting_completness_based_on_transcriptome.py [-h] -p PREDICTED_PEPTIDES -db_f FASTA_FILE_FOR_DATABASE_FOR_BLASTING -t NUMBER_OF_THREADS -l LIST_OF_ANNOTATED -cds PREDICTED_CODING_SEQ -prots PREDICTED_PROTS
 
 * **[newick_to_nexus.py](https://github.com/ProtistomicsLab/scripts/blob/main/newick_to_nexus.py)** by Jadzia
-* A python script that converts newick to nexus.
+A python script that converts newick to nexus.
 
-* usage: newick_to_nexus.py [input] [output]
+usage: newick_to_nexus.py [input] [output]
 
-* [input] name of the input file in fasta newick [output] name of the output file in nexus format
+[input] name of the input file in fasta newick [output] name of the output file in nexus format
