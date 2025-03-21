@@ -23,3 +23,8 @@ Python script that converts input in fasta to format into output in phylip forma
 Usage: fasta_to_phylip.py [input] [output]
 
 [input] name of the input file in fasta format [output] name of the output file in phylip format
+
+** [getting_completness_of_the_genome_based_on_transcriptome.py](https://github.com/ProtistomicsLab/scripts/blob/main/getting_completness_of_the_genome_based_on_transcriptome.py)** (by Jadzia)
+Python script to estimate genome completness based on transcriptome.
+
+usage: getting_completness_based_on_transcriptome.py [-h] -p PREDICTED_PEPTIDES -db_f FASTA_FILE_FOR_DATABASE_FOR_BLASTING -t NUMBER_OF_THREADS -l LIST_OF_ANNOTATED -cds PREDICTED_CODING_SEQ -prots PREDICTED_PROTS
