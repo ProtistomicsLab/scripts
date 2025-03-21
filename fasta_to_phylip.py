@@ -1,4 +1,4 @@
-# A script to convert fasta to phylip.
+# A script to convert sequences in FASTA format to Phylip.
 # Tested and working on Python 3.6 
 
 from Bio import AlignIO
