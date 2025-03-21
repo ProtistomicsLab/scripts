@@ -21,10 +21,9 @@ This is where we store all software tools that do not require installation, comp
 
   usage: fasta_to_phylip.py <input.fa> <output.phy>
 
-* **[getting_completness_of_the_genome_based_on_transcriptome.py](https://github.com/ProtistomicsLab/scripts/blob/main/getting_completness_of_the_genome_based_on_transcriptome.py)** (by Jadzia)
-A Python script to estimate genome completness based on transcriptome.
+* **[getting_completness_of_the_genome_based_on_transcriptome.py](https://github.com/ProtistomicsLab/scripts/blob/main/getting_completness_of_the_genome_based_on_transcriptome.py)** (by Jadzia - for estimating genome completness based on the available transcriptome from the same organism)
 
-usage: getting_completness_based_on_transcriptome.py [-h] -p PREDICTED_PEPTIDES -db_f FASTA_FILE_FOR_DATABASE_FOR_BLASTING -t NUMBER_OF_THREADS -l LIST_OF_ANNOTATED -cds PREDICTED_CODING_SEQ -prots PREDICTED_PROTS
+  usage: getting_completness_based_on_transcriptome.py [-h] -p <predicted_peptides.pep.fa> -db_f <fasta_to_be_used_as_blast_database.fasta> -t <NUMBER_OF_THREADS> -l <annotations_list.txt> -cds <predicted_CDS.fasta> -prots <predicted_proteins.fasta>
 
 * **[newick_to_nexus.py](https://github.com/ProtistomicsLab/scripts/blob/main/newick_to_nexus.py)** (by Jadzia)
 A python script that converts newick to nexus.
