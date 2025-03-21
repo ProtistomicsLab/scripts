@@ -1,3 +1,6 @@
+# A script to convert fasta to phylip.
+# Tested and working on Python 3.6 
+
 from Bio import AlignIO
 from pathlib import Path
 from Bio.AlignIO.PhylipIO import SequentialPhylipWriter
