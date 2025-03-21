@@ -13,3 +13,9 @@ This is where we store all software tools that do not require installation, comp
 ## **Currently in the repository:**
 
 * **[branchlen.py](https://github.com/ProtistomicsLab/scripts/blob/main/branchlen.py)** (by Kacper - for extracting branch length data from Newick trees)
+
+
+* **[]
+Python script that converts input in fasta to format into output in phylip format. Usesful while running PAML or CODEML. Usage: fasta_to_phylip.py [input] [output]
+
+[input] name of the input file in fasta format [output] name of the output file in phylip format
