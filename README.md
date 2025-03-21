@@ -17,12 +17,9 @@ This is where we store all software tools that do not require installation, comp
 * **[branchlen.py](https://github.com/ProtistomicsLab/scripts/blob/main/branchlen.py)** (by Kacper - for extracting branch length data from Newick trees)
 
 
-* **[fasta_to_phylip.py](https://github.com/ProtistomicsLab/scripts/blob/main/fasta_to_phylip.py)** (by Jadzia)
-Python script that converts input in fasta to format into output in phylip format. Usesful while running PAML or CODEML.
+* **[fasta_to_phylip.py](https://github.com/ProtistomicsLab/scripts/blob/main/fasta_to_phylip.py)** (by Jadzia - for converting FASTA sequences to Phylip format, used e.g. in PAML)
 
-usage: fasta_to_phylip.py [input] [output]
-
-[input] name of the input file in fasta format [output] name of the output file in phylip format
+  usage: fasta_to_phylip.py <input.fa> <output.phy>
 
 * **[getting_completness_of_the_genome_based_on_transcriptome.py](https://github.com/ProtistomicsLab/scripts/blob/main/getting_completness_of_the_genome_based_on_transcriptome.py)** (by Jadzia)
 A Python script to estimate genome completness based on transcriptome.
