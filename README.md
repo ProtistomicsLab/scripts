@@ -9,6 +9,8 @@ This is where we store all software tools that do not require installation, comp
 
 * **.sh** files are bash scripts, i.e. they require nothing to run (since bash is everywhere by default).  
 
+* **.R** files are R scripts, i.e. they require R to run.
+*   
 
 ## **Currently in the repository:**
 
