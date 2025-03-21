@@ -35,4 +35,3 @@ usage: getting_completness_based_on_transcriptome.py [-h] -p PREDICTED_PEPTIDES 
 * usage: newick_to_nexus.py [input] [output]
 
 * [input] name of the input file in fasta newick [output] name of the output file in nexus format
-* 
