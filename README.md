@@ -19,6 +19,8 @@ This is where we store all software tools that do not require installation, comp
 
 * **[fasta_to_phylip.py](https://github.com/ProtistomicsLab/scripts/blob/main/fasta_to_phylip.py)** (by Jadzia - for converting FASTA sequences to Phylip format, used e.g. in PAML)
 
+* **[fasta_to_gtf.py](https://github.com/ProtistomicsLab/scripts/blob/main/fasta_to_phylip.py)** (by Jadzia & Kacper - for converting FASTA sequences to GTF format, used e.g. for creating a count matrix for DE analysis)
+
   usage: fasta_to_phylip.py <input.fa> <output.phy>
 
 * **[getting_completness_of_the_genome_based_on_transcriptome.py](https://github.com/ProtistomicsLab/scripts/blob/main/getting_completness_of_the_genome_based_on_transcriptome.py)** (by Jadzia - for estimating genome completness based on the available transcriptome from the same organism)
